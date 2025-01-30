@@ -1,4 +1,5 @@
-# Intro-CPS493
+# In-Class work
+## This repo contains the work done during class
 ## About Me
 ![alt text](self1.png)
 
